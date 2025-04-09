@@ -167,12 +167,12 @@
     <Content Include="Assets\icons8_logout_rounded_up_filled_32px.png" />
     <Content Include="Assets\icons8_return_32px_3.png" />
     <Content Include="Assets\pexels-polina-zimmerman-3747468.jpg" />
-    <Content Include="Previews\LMS AddBooks.png" />
-    <Content Include="Previews\LMS Dashboard.png" />
-    <Content Include="Previews\LMS IssuesBooks.png" />
-    <Content Include="Previews\LMS Login.png" />
-    <Content Include="Previews\LMS Register.png" />
-    <Content Include="Previews\LMS RetunBooks.png" />
+    <Content Include="Previews\AddBooks.png" />
+    <Content Include="Previews\Dashboard.png" />
+    <Content Include="Previews\IssuesBooks.png" />
+    <Content Include="Previews\Login.png" />
+    <Content Include="Previews\Register.png" />
+    <Content Include="Previews\RetunBooks.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
